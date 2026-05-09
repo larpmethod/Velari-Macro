@@ -13,12 +13,12 @@ It is designed to keep applications or games active while you are away (AFK).
 
 ## 📸 Preview
 
-![Home](./assets/Home.PNG)
+![Home](./Assets/Home.PNG)
 
-![Keybinds 1 ](./assets/Keybinds1.PNG)
-![Keybinds 2](./assets/Keybinds2.PNG)
+![Keybinds 1 ](./Assets/Keybinds1.PNG)
+![Keybinds 2](./Assets/Keybinds2.PNG)
 
-![Settings](./assets/Settings.PNG)
+![Settings](./Assets/settings.PNG)
 
 
 ---
