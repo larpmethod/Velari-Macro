@@ -1,74 +1,167 @@
-# Velari Macro
+# ⚡ Velari Macro
 
-Velari Macro is a lightweight and user-friendly automation tool that simulates keyboard inputs at customizable intervals.  
-It is designed to keep applications or games active while you are away (AFK).
+<div align="center">
 
----
+### Lightweight • Fast • Simple AFK Automation
+
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)](#)
+[![Language](https://img.shields.io/badge/Built%20With-.NET-purple?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#)
 
 ## ⬇️ Download
 
-👉 [Download Latest Release](https://github.com/larpmethod/CleanAFKMacro/releases/latest)
+| Release           | Link                                                        |
+| ----------------- | ----------------------------------------------------------- |
+| 🟢 Latest Version | https://github.com/larpmethod/CleanAFKMacro/releases/latest |
+
+</div>
 
 ---
 
-## 📸 Preview
+# 📖 Overview
+
+Velari Macro is a lightweight and user-friendly automation tool that simulates keyboard inputs at fully customizable intervals.
+
+Built for simplicity and low resource usage, it allows users to keep applications or games active while away from the keyboard (AFK).
+
+The application focuses on:
+
+* ⚡ Performance
+* 🧼 Clean UI design
+* 🎯 Ease of use
+* 🖥️ Lightweight background execution
+
+---
+
+# 📸 Preview
+
+## 🏠 Home
 
 ![Home](./Assets/Home.PNG)
 
-![Keybinds 1 ](./Assets/Keybinds1.PNG)
+---
+
+## ⌨️ Keybind Configuration
+
+![Keybinds 1](./Assets/Keybinds1.PNG)
+
 ![Keybinds 2](./Assets/Keybinds2.PNG)
+
+---
+
+## ⚙️ Settings
 
 ![Settings](./Assets/settings.PNG)
 
+---
+
+# ✨ Features
+
+## 🎮 Macro Controls
+
+* Start macro execution
+* Pause active macros
+* Stop macros instantly
+* Real-time hotkey controls
 
 ---
 
-## 📸 Youtube Video 
+## ⌨️ Custom Keybinds
 
- N/A
+Configure:
 
----
-
-## ✨ Features
-
-- Clean and intuitive user interface  
-- Customizable key bindings  
-- Adjustable key press durations  
-- Start, pause, and stop controls  
-- Hotkey support  
-  - `F6` → Pause  
-  - `F7` → Resume  
-  - `F8` → Stop  
-- Low system resource usage  
+* Keyboard keys
+* Key durations
+* Key intervals
+* Multi-key loops
 
 ---
 
-## 🛠️ How It Works
+## 🔥 Hotkeys
 
-1. Select the keys you want to simulate  
-2. Set the duration (in seconds) for each key  
-3. Start the macro  
-4. The tool will automatically press the selected keys in a loop  
-
----
-
-## 🎯 Use Cases
-
-- Prevent idle/AFK detection in applications or games  
-- Automate repetitive keyboard tasks  
-- Keep sessions active without manual input  
+| Key  | Action |
+| ---- | ------ |
+| `F6` | Pause  |
+| `F7` | Resume |
+| `F8` | Stop   |
 
 ---
 
-## ⚠️ Disclaimer
+## ⚡ Lightweight Performance
 
-This software is intended for personal and educational use only.  
-Make sure to comply with the terms of service of any application, game, or platform you use it with.
-
-> Hobby project — may or may not receive future updates.
+* Minimal CPU usage
+* Low memory consumption
+* Fast startup times
+* Smooth background execution
 
 ---
 
-## 📄 License
+# 🛠️ How It Works
+
+## Setup Process
+
+1. Select the keys you want to simulate
+2. Set the duration for every key
+3. Start the macro
+4. Velari Macro will automatically repeat the configured inputs in a loop
+
+---
+
+# 🎯 Use Cases
+
+Velari Macro can be useful for:
+
+* Preventing AFK / idle detection
+* Repeating keyboard actions
+* Keeping sessions active
+* Testing repetitive workflows
+* Automating simple keyboard tasks
+
+---
+
+# ⚠️ Disclaimer
+
+This software is intended for:
+
+* Personal use
+* Educational use
+* Testing purposes
+
+Please make sure you comply with the Terms of Service of any:
+
+* Game
+* Application
+* Platform
+* Service
+
+> Hobby project — future updates are not guaranteed.
+
+---
+
+# 🧱 System Requirements
+
+| Requirement | Status          |
+| ----------- | --------------- |
+| Windows     | ✅ Supported     |
+| Linux       | ❌ Not Supported |
+| macOS       | ❌ Not Supported |
+
+---
+
+# 📄 License
 
 This project is licensed under the MIT License.
+
+```text
+MIT License
+```
+
+---
+
+<div align="center">
+
+## ✨ Lightweight • Reliable • Clean
+
+Made for simple and efficient automation.
+
+</div>
