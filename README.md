@@ -10,9 +10,7 @@
 
 ## ⬇️ Download
 
-| Release           | Link                                                        |
-| ----------------- | ----------------------------------------------------------- |
-| 🟢 Latest Version | https://github.com/larpmethod/Velari-Macro/releases/latest |
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-2EA043?style=for-the-badge&logo=github)](https://github.com/larpmethod/Velari-Macro/releases/latest)
 
 </div>
 
