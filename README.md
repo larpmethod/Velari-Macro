@@ -12,7 +12,7 @@
 
 | Release           | Link                                                        |
 | ----------------- | ----------------------------------------------------------- |
-| 🟢 Latest Version | https://github.com/larpmethod/CleanAFKMacro/releases/latest |
+| 🟢 Latest Version | https://github.com/larpmethod/Velari-Macro/releases/latest |
 
 </div>
 
